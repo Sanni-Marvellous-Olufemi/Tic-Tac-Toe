@@ -1,4 +1,4 @@
-🎮✨ Neon Glow Tic Tac Toe 🌐🔥  
+Tic Tac Toe  
 Ready to experience the classic game of Tic Tac Toe like never before? Welcome to **Neon Glow Tic Tac Toe** — a sleek, 3D-styled web app that turns every match into a glowing arcade showdown. Built with Flask and powered by JavaScript magic, this game fuses retro fun with modern visuals!
 
 ---
