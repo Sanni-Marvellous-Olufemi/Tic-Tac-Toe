@@ -51,5 +51,5 @@ https://tic-tac-toe-py-game.netlify.app/
 
 📬 Contact  
 Crafted by Sanni Marvellous Olufemi 
-Let’s connect on [[LinkedIn](https://www.linkedin.com/in/marvellous-sanni)]() or check out more cool stuff on [GitHub](https://github.com/Sanni-Marvellous-Olufemi)
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/marvellous-sanni) or check out more cool stuff on [GitHub](https://github.com/Sanni-Marvellous-Olufemi)
 
