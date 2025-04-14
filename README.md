@@ -1,16 +1,17 @@
-Tic Tac Toe  
+---
+# Tic Tac Toe  
 Ready to experience the classic game of Tic Tac Toe like never before? Welcome to **Neon Glow Tic Tac Toe** — a sleek, 3D-styled web app that turns every match into a glowing arcade showdown. Built with Flask and powered by JavaScript magic, this game fuses retro fun with modern visuals!
 
 ---
 
-🚀 What is this?  
+# 🚀 What is this?  
 Neon Glow Tic Tac Toe is a full-stack, two-player game designed to provide a glowing, immersive experience. With player name input, animated game board, session-based score tracking, and dynamic turn switching, it's more than just Xs and Os — it's a whole vibe.
 
 > “Play. Glow. Win. Repeat.”
 
 ---
 
-🧠 Features  
+# 🧠 Features  
 ✅ 🎮 Two-player mode with custom player names  
 ✅ 💾 Session-based game memory to track scores and turns  
 ✅ ✨ Glowing 3D animations with rotating X and O backgrounds  
@@ -21,7 +22,7 @@ Neon Glow Tic Tac Toe is a full-stack, two-player game designed to provide a glo
 
 ---
 
-🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 
 🖥️ Frontend  
 - HTML5, CSS3, JavaScript  
@@ -35,9 +36,9 @@ Neon Glow Tic Tac Toe is a full-stack, two-player game designed to provide a glo
 
 ---
 
-🌐 Live Demo  
-🚀 Coming soon — host it on **Render**, **Railway**, or **Fly.io**  
-🐍 Flask server endpoint (local): `http://localhost:5000`
+# 🌐 Live Demo  
+🚀 Hosted on **Render**, **Netifly**
+https://tic-tac-toe-py-game.netlify.app/
 
 ---
 
@@ -49,6 +50,6 @@ Neon Glow Tic Tac Toe is a full-stack, two-player game designed to provide a glo
 ---
 
 📬 Contact  
-Crafted with ✨ and 🧠 by [Your Name]  
-Let’s connect on [LinkedIn](https://linkedin.com/in/yourprofile) or check out more cool stuff on [GitHub](https://github.com/yourusername)
+Crafted by Sanni Marvellous Olufemi 
+Let’s connect on [[LinkedIn](https://www.linkedin.com/in/marvellous-sanni)]() or check out more cool stuff on [GitHub](https://github.com/Sanni-Marvellous-Olufemi)
 
